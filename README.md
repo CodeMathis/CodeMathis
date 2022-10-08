@@ -1,6 +1,6 @@
 Mathis R.
 ---------------------
-- Etudiant BTS SIO à CaenSup Sainte Ursule
+  * Etudiant BTS SIO à CaenSup Sainte Ursule
 
 Profil
 ---------------------
