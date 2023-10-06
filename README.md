@@ -9,5 +9,5 @@ __Contact :__
   * [💻] Discord : rayonvert
 
 __Information :__
-  * [📆] Naissance : 31/12/2004
+  * [📆] Âge : 18 ans
   * [🌐] Github : https://github.com/CodeMathis
