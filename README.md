@@ -1,6 +1,6 @@
 Mathis R.
 ---------------------
-  * Etudiant en CPGE ATS Ingénierie Industrielle
+  * Etudiant en Informatique et Technologies de l'Information à l'INSA ROUEN
 
 Profil
 ---------------------
